@@ -88,6 +88,7 @@
       <p><a class="btn btn-primary btn-lg pull-right" href="about.html" role="button">Learn more &raquo;</a></p>
     </div>
   </div>
-  <?php include("footer.php") ?>
+</div>
+<?php include("footer.php") ?>
 </body>
 </html>
