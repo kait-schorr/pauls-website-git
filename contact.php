@@ -21,8 +21,8 @@
       </form>
     </div>
     <div class="col-md-2 text-center" >
-      <h1 style="display: table-cell, vertical-align: middle;">OR</h1>
-    </div>
+ <!--      <h1 style="display: table-cell, vertical-align: middle;">OR</h1>
+    </div> -->
     <div class="col-md-5 text-center">
       <h2>Email Me</h2>
       <div class="well" id="contact-email">        
