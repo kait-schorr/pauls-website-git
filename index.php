@@ -13,19 +13,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/architecture/architecture1.jpg" alt="Example photo">
+      <img src="images/test-large/_AT_8547-2.jpg" alt="Example photo">
       <div class="carousel-caption">
         Photograph 1
       </div>
     </div>
     <div class="item">
-      <img src="images/landscapes/nature1.jpg" alt="...">
+      <img src="images/test-large/_AT_8653-2.jpg" alt="...">
       <div class="carousel-caption">
         Photograph 2
       </div>
     </div>
     <div class="item">
-      <img src="images/landscapes/nature2.jpg" alt="...">
+      <img src="images/test-large/_AT_9599-2.jpg" alt="...">
       <div class="carousel-caption">
         Photograph 3
       </div>
