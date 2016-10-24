@@ -3,20 +3,32 @@
 <div class="container">
   <!-- Example row of columns -->
   <div class="row">
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <h1 class="text-center">Contact Paul</h1>
+    <hr>
+    <div class="col-md-5 text-center">
+      <h2>Send a Message</h2>
+      <form method="post" action="mailto:kaitlynschorr@gmail.com" enctype="text/plain">
+        <div class="form-group row">
+          <input type="text" class="form-control" id="name_input" aria-describedby="nameHelp" placeholder="First & Last Name">
+        </div>
+        <div class="form-group row">
+          <input type="email" class="form-control" id="email_input" aria-describedby="emailHelp" placeholder="Email">
+        </div>
+        <div class="form-group row">
+          <textarea class="form-control" id="message_input" placeholder="Send a message!" rows="6"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary pull-right">Submit</button>      
+      </form>
     </div>
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-md-2 text-center" >
+      <h1 style="display: table-cell, vertical-align: middle;">OR</h1>
     </div>
-    <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <div class="col-md-5 text-center">
+      <h2>Email Me</h2>
+      <div class="well">        
+        <p><a href="mailto:ptenner56@gmail.com">ptenner56@gmail.com</a></p>
+        <a href="mailto:ptenner56@gmail.com" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+      </div>
     </div>
   </div>
 </div>
