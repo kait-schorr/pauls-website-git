@@ -11,7 +11,7 @@
 
         <p>The most common dyes used for sublimation activate at 350 degrees Fahrenheit. However, a range of 380 to 420 degrees Fahrenheit is used for optimal color.  The end result of the sublimation process is a nearly permanent, high resolution, full color print. The dyes are infused into the substrate at the molecular level, rather than applied at the surface level (such as is the case with screen printing and direct to garment printing).  The prints will not crack, fade or peel from the aluminum sheet under normal conditions.  If the image becomes smudged or dusty, you can use a glass cleaner to wipe them clean, without the risk of harm to the image.</p>
 
-        <p>Image styles include printing on panels that are high gloss.  These are very popular.  However, if the images are to be displayed in an environment where they’d be subject to glare, reduced and minimal glare options are available, such as mid-gloss, satin, sheer gloss, and sheer matte.</p>
+        <p>Most metal print images are printed on high gloss aluminum panels. However, when an image will be displayed in a lighting location where it would be subject to glare, consideration should be given to use of panels that provide reduced or minimal glare options, such as mid-gloss, satin, sheer gloss, and sheer matte.</p>
       </div>
     </div>
   </div>
