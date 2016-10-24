@@ -85,7 +85,7 @@
     <div class="container">
       <h2 class="text-center">About Paul Tenner</h2>
       <p>I have called San Antonio, TX home for the last twenty years.  I grew up in El Paso, TX and I became enamored with the State of New Mexico during my youth.  I was attracted to New Mexico’s culture, architecture, and geography...  </p>
-      <p><a class="btn btn-primary btn-lg pull-right" href="about.html" role="button">Learn more &raquo;</a></p>
+      <p><a class="btn btn-primary btn-lg pull-right" href="about.php" role="button">Learn more &raquo;</a></p>
     </div>
   </div>
 </div>
