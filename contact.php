@@ -25,7 +25,7 @@
     </div>
     <div class="col-md-5 text-center">
       <h2>Email Me</h2>
-      <div class="well">        
+      <div class="well" id="contact-email">        
         <p><a href="mailto:ptenner56@gmail.com">ptenner56@gmail.com</a></p>
         <a href="mailto:ptenner56@gmail.com" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
       </div>
