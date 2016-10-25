@@ -1,7 +1,7 @@
 <?php $page_title = "San Antonio Landscapes"; ?>
 <?php include("header.php") ?>
 
-<div class="container">
+<div class="container" id="wrapper">
     <div id="gallery-page">
         <!-- Slider -->
         <div class="row">

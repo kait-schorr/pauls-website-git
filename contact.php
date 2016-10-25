@@ -1,7 +1,7 @@
 <?php $page_title = "Contact Paul Tenner"; ?>
 <?php include("header.php") ?>
 
-<div class="container">
+<div class="container" id="wrapper">
   <!-- Example row of columns -->
   <div class="row">
     <h1 class="text-center">Contact Paul</h1>
@@ -21,9 +21,7 @@
         <button type="submit" class="btn btn-primary pull-right">Submit</button>      
       </form>
     </div>
-    <div class="col-md-2 text-center" >
-<!--       <h1 style="display: table-cell, vertical-align: middle;">OR</h1>
- -->    </div>
+    <div class="col-md-2 text-center"></div>
     <div class="col-md-5 text-center">
       <h2>Email Me</h2>
       <div class="well" id="contact-email">        
@@ -32,7 +30,7 @@
       </div>
     </div>
   </div>
-</div>
+
 
 <?php include("footer.php") ?>
 </body>

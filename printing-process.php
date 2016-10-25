@@ -1,7 +1,7 @@
 <?php $page_title = "Printing Process"; ?>
 <?php include("header.php") ?>
 
-<div class="container">
+<div class="container"  id="wrapper">
   <!-- Example row of columns -->
   <div class="row">
     <div class="col-md-8 col-md-offset-2">

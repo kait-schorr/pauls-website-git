@@ -1,7 +1,7 @@
 <?php $page_title = "Architecture Photos"; ?>
 <?php include("header.php") ?>
 
-<div class="container">
+<div class="container" id="wrapper">
     <div id="gallery-page">
         <div class="masonry hide-bullets">
             <?php include("gallery-script.php") ?>

@@ -3,7 +3,7 @@
 
 
 <!-- Gallery Grid -->
-<div class="container">
+<div class="container" id="wrapper">
 
     <div class="row" id="gallery">
 
