@@ -18,19 +18,19 @@
             </a>
         </div>
         <div class="col-lg-6 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="landscape-new-mexico.php">
+            <a class="thumbnail" href="new-mexico-landscapes.php">
                 <img class="img-responsive" src="http://placehold.it/800x600" alt="">
                 <div class="caption text-center">Landscapes - New Mexico</div>
             </a>
         </div>
         <div class="col-lg-6 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="landscape-central-texas.php">
+            <a class="thumbnail" href="central-texas-landscapes.php">
                 <img class="img-responsive" src="http://placehold.it/800x600" alt="">
                 <div class="caption text-center">Landscapes - Central Texas</div>
             </a>
         </div>
         <div class="col-lg-6 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="landscape-san-antonio.php">
+            <a class="thumbnail" href="san-antonio-landscapes.php">
                 <img class="img-responsive" src="http://placehold.it/800x600" alt="">
                 <div class="caption text-center">Landscapes - San Antonio</div>
             </a>

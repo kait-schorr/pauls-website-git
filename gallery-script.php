@@ -54,7 +54,7 @@ if(count($image_files)) {
 				make_thumb($images_dir.$file,$thumbnail_image,$thumbs_width);
 			}
 		}
-		echo '<a href="',$images_dir.$file,'" class="lightbox-content" rel="gallery"><img src="',$thumbnail_image,'" /></a>';
+		echo '<div class="item"><a href="',$images_dir.$file,'" class="sb"><img src="',$thumbnail_image,'" /></a></div>';
 		if($index % $images_per_row == 0) { echo '<div class="clear"></div>'; }
 	}
 	echo '<div class="clear"></div>';
@@ -63,3 +63,4 @@ else {
 	echo '<p>There are no images in this gallery.</p>';
 }
 ?>
+

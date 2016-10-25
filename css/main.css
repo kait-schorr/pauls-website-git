@@ -11,9 +11,9 @@ body {
 }
 
 #wrapper {
-min-height: 100%;
-margin-bottom: -60px;
-position: relative;
+  min-height: 100%;
+  margin-bottom: -60px;
+  position: relative;
 }
 
 .hide-bullets {
@@ -90,15 +90,15 @@ position: relative;
    right: 0;  
    margin: auto;
  }
-}*/
+ }*/
 /*
 @media (max-width: 768px){
  /*Forces the carousel to always stay the same height*/
 /* .item {
   height: 300px;
-}*/
+  }*/
 
-/*Fixes Vertical Centering in Carousel*/
+  /*Fixes Vertical Centering in Carousel*/
 /*.carousel .item img{
  max-height: 100%;  
  max-width: 100%; 
@@ -131,6 +131,17 @@ position: relative;
   background-color: black;
   border-color: black;
   margin-bottom: 0px;
+  display: inline-block;
+}
+
+.thumbnail .caption {
+  color: white;
+}
+
+#gallery-icons .thumbnail img{
+  height: 250px;
+  width:250px;
+  object-fit: cover;
 }
 
 /* ==========================================================================
@@ -207,7 +218,7 @@ footer {
 }
 
 .clearfooter {
-height: 80px;
-clear: both;
+  height: 80px;
+  clear: both;
 }
 
