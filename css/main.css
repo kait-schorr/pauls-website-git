@@ -147,10 +147,15 @@ body {
 ---GALLERY PAGES
 ========================================================================== */
 
-#gallery-page {
-  .clear      { clear:both; }
-  .photo-link   { padding:5px; margin:5px; border:1px solid #ccc; display:block; width:200px; float:left; }
-  .photo-link:hover { border-color:#999; }
+.masonry {
+  column-count: 4;
+  column-gap: 1em;
+}
+
+.item {
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
 }
 
 /* ==========================================================================

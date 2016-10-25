@@ -3,9 +3,8 @@
 
 <div class="container">
     <div id="gallery-page">
-        <!-- Slider -->
-        <div class="row">
-<?php include("gallery-script.php") ?>
+    <div class="masonry hide-bullets">
+            <?php include("gallery-script.php") ?>
         </div>
 
     </div>

@@ -51,7 +51,7 @@ $(document).ready(function() {
     $(document).on('click', ".sb-next-on", function(event){
         $(this).removeClass('sb-next-on');
         
-        if(jQuery.browser.version.substring(0, 2) == "8.") {
+        if(false){
             $('.sb-item').eq(-2).fadeIn('fast');
             $('.sb-item:last').fadeOut().removeClass('sb-item-ani').prependTo('.sb-items');
         } else {
@@ -71,7 +71,7 @@ $(document).ready(function() {
 
     $(document).on('click', ".sb-prev-on", function(event){  
         $(this).removeClass('sb-prev-on');
-        if(jQuery.browser.version.substring(0, 2) == "8.") {
+        if(false){
             $('.sb-item:first').appendTo('.sb-items').fadeIn();
         } else {
             $('.sb-item:last').hide(); 
