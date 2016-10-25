@@ -140,8 +140,19 @@ body {
 
 #gallery-icons .thumbnail img{
   height: 250px;
-  width:250px;
+  width: 250px;
   object-fit: cover;
+}
+
+/* ==========================================================================
+---GALLERY SELECTION PAGE
+========================================================================== */
+
+#gallery-icons-large .thumbnail img{
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  margin: auto;
 }
 
 /* ==========================================================================
