@@ -36,8 +36,8 @@ function get_file_extension($file_name) {
 }
 
 /** settings **/
-$images_dir = 'images/architecture/';
-$thumbs_dir = 'images/architecture-thumbs/';
+$images_dir = $folder_name ."/";
+$thumbs_dir = $folder_name ."-thumbs/";
 $thumbs_width = 200;
 $images_per_row = 3;
 
