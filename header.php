@@ -16,7 +16,7 @@
         }
     </style>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/bootstrap-lightbox.min.css">
+    <link rel="stylesheet" href="css/smoothbox.min.css">
 
 
     <link rel="stylesheet" href="css/main.css">
@@ -25,6 +25,7 @@
     <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
 </head>
 <body>
         <!--[if lt IE 8]>
