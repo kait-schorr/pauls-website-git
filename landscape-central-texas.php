@@ -1,3 +1,4 @@
+<?php $page_title = "Central Texas Landscapes"; ?>
 <?php include("header.php") ?>
 
 <div class="container">

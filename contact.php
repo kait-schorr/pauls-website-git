@@ -1,3 +1,4 @@
+<?php $page_title = "Contact Paul Tenner"; ?>
 <?php include("header.php") ?>
 
 <div class="container">

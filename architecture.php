@@ -1,3 +1,4 @@
+<?php $page_title = "Architecture Photos"; ?>
 <?php include("header.php") ?>
 
 <div class="container">

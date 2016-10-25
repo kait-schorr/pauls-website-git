@@ -1,3 +1,4 @@
+<?php $page_title = "Alumages by Paul Tenner"; ?>
 <?php include("header.php"); ?>
 
 <!-- Carousel for displaying main pictures -->

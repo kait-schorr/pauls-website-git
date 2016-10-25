@@ -1,3 +1,4 @@
+<?php $page_title = "Printing Process"; ?>
 <?php include("header.php") ?>
 
 <div class="container">

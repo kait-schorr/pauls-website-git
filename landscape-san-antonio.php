@@ -1,3 +1,4 @@
+<?php $page_title = "San Antonio Landscapes"; ?>
 <?php include("header.php") ?>
 
 <div class="container">

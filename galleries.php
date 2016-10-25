@@ -1,3 +1,4 @@
+<?php $page_title = "Galleries"; ?>
 <?php include("header.php") ?>
 
 
