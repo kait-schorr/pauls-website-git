@@ -16,19 +16,16 @@
       <div class="item active">
         <img class="carousel-img" src="images/test-large/_AT_8547-2.jpg" alt="">
         <div class="carousel-caption">
-          Photograph 1
         </div>
       </div>
       <div class="item">
         <img class="carousel-img" src="images/test-large/_AT_8653-2.jpg" alt="...">
         <div class="carousel-caption">
-          Photograph 2
         </div>
       </div>
       <div class="item">
         <img class="carousel-img" src="images/test-large/_AT_9599-2.jpg" alt="...">
         <div class="carousel-caption">
-          Photograph 3
         </div>
       </div>
     </div>
