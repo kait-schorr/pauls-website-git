@@ -28,9 +28,9 @@
 
 </head>
 <body>
-        <!--[if lt IE 8]>
+        <!-- [if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-            <![endif]-->
+            <![endif] -->
             <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
               <div class="container">
                 <div class="navbar-header">
@@ -44,7 +44,7 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar">
               <ul class="nav navbar-nav navbar-right">
-                 
+               
                 <li class="<?php if(basename($_SERVER['SCRIPT_NAME']) == 'index.php'){echo 'active'; }else { echo ''; } ?>"><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span><span class="sr-only">(current)</span></a></li>
                 <li class="<?php if(basename($_SERVER['SCRIPT_NAME']) == 'galleries.php'){echo 'active'; }else { echo ''; } ?>"><a href="galleries.php">Galleries</a></li>
                 <li class="<?php if(basename($_SERVER['SCRIPT_NAME']) == 'about.php'){echo 'active'; }else { echo ''; } ?>"><a href="about.php">About Paul</a></li>
