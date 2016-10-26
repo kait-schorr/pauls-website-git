@@ -28,8 +28,12 @@ body {
 
 .navbar-brand {
  padding: 0px;
- height: 70px;
- margin-bottom: 10px;
+}
+
+.logo{
+  height: 100%;
+  padding: 5px;
+  width: auto;
 }
 
 .navbar-toggle .icon-bar {
@@ -40,14 +44,6 @@ body {
   border-radius: 1px;
 }
 
-@media (min-width: 768px){
-
-/* Makes the navbar the proper height on wide screens
-*/
-.navbar-nav  li  a {
- line-height: 50px;
-}
-}
 
 /* ==========================================================================
 ---CAROUSEL
