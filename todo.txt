@@ -1,1 +1,2 @@
 -Make column count smaller for smaller screens
+-Make a cloned page for filenames for paul
