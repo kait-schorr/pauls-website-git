@@ -54,7 +54,7 @@ if(count($image_files)) {
 				make_thumb($images_dir.$file,$thumbnail_image,$thumbs_width);
 			}
 		}
-		echo '<div class="item"><a href="',$images_dir.$file,'" class="sb"><img src="',$thumbnail_image,'" />',$file,'</a></div>';
+		echo '<div class="item"><a href="',$images_dir.$file,'" class="sb"><img src="',$thumbnail_image,'" /><p>',$file,'</p></a></div>';
 		if($index % $images_per_row == 0) { echo '<div class="clear"></div>'; }
 	}
 	echo '<div class="clear"></div>';

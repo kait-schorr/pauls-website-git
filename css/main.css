@@ -89,7 +89,7 @@ body {
   object-fit: cover;
 
 }
-@media (min-width: 768px){
+/*@media (min-width: 768px){
 
   /*Fixes Vertical Centering in Carousel*/
  /* .item {
@@ -202,7 +202,7 @@ body {
   width: 100%;
 }
 
-#gallery-page a {
+#gallery-page p {
   color: grey;
 }
 
