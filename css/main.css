@@ -53,14 +53,15 @@ body {
 ---CAROUSEL
 ========================================================================== */
 
-/*#carousel-div {
+#carousel-div {
   padding: 0px;
   margin-top: 10%;
 }
 
 #carousel-bounding-box {
-  width: 100%;
-  padding: 0px;
+  padding: 0px;  
+
+
 }
 
 #galleryCarousel {
@@ -73,6 +74,9 @@ body {
   margin-left: 20px;
 }
 
+.carousel-inner {
+  height: 80vh;
+}
 
 @media (min-width: 768px){
 
