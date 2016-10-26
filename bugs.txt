@@ -1,0 +1,1 @@
+-Images in gallery pages with too few images display strangely

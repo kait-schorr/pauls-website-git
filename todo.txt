@@ -1,0 +1,1 @@
+-Make column count smaller for smaller screens

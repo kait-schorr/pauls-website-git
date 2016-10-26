@@ -18,7 +18,7 @@ body {
 
 .hide-bullets {
   list-style:none;
-  margin-left: -40px;
+  margin-left: 10px;
   margin-top:20px;
 }
 
