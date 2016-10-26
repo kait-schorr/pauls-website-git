@@ -70,14 +70,19 @@ body {
   justify-content: center;
   border-color: green;
   border-style: none;
-  width: 100%;
-  margin-left: 20px;
+/*  width: 100%;
+*/  margin-left: 20px;
 }
 
 .carousel-inner {
   height: 80vh;
 }
 
+.carousel-img {
+
+  object-fit: cover;
+
+}
 @media (min-width: 768px){
 
   /*Fixes Vertical Centering in Carousel*/
