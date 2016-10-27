@@ -1,1 +1,3 @@
 -Make column count smaller for smaller screens
+-Restrain image size in lightbox
+-Backend for contact form
