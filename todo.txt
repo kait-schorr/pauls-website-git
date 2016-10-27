@@ -1,3 +1,5 @@
 -Make column count smaller for smaller screens
 -Restrain image size in lightbox
 -Backend for contact form
+-Make a cloned page for filenames for paul
+
