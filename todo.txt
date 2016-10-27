@@ -2,4 +2,4 @@
 -Restrain image size in lightbox
 -Backend for contact form
 -Make a cloned page for filenames for paul
-
+-Make lightbox work with keyboard and click away
