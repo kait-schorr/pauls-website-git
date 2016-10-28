@@ -24,6 +24,14 @@
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
+    <!-- Unite Gallery Stuff -->
+    <script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>   
+    <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>  
+
+    <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
+    
+    <script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+
 </head>
 <body>
         <!-- [if lt IE 8]>
