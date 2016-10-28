@@ -9,13 +9,16 @@ $folder_name = "images/architecture"; ?>
 </div>
 <script type="text/javascript">
 
-		jQuery(document).ready(function(){
+	jQuery(document).ready(function(){
 
-			jQuery("#gallery-page").unitegallery();
-
+		jQuery("#gallery-page").unitegallery({
+			tile_enable_textpanel:true,
+			tile_textpanel_title_text_align: "center",
 		});
-		
-	</script>
+
+	});
+	
+</script>
 
 <?php include("footer.php") ?>
 </body>

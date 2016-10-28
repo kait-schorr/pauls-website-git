@@ -54,7 +54,7 @@ if(count($image_files)) {
 				make_thumb($images_dir.$file,$thumbnail_image,$thumbs_width);
 			}
 		}
-		echo '<img alt=""
+		echo '<img alt="',$file,'"
 		src="',$thumbnail_image,'" 
 		data-image="',$images_dir.$file,'"
 		data-description="River and Bridge"
