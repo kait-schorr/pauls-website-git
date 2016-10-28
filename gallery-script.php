@@ -54,10 +54,14 @@ if(count($image_files)) {
 				make_thumb($images_dir.$file,$thumbnail_image,$thumbs_width);
 			}
 		}
-		echo '<div class="item"><a href="',$images_dir.$file,'" class="sb"><img src="',$thumbnail_image,'" /><p>',$file,'</p></a></div>';
-		if($index % $images_per_row == 0) { echo '<div class="clear"></div>'; }
+		echo '<img alt=""
+		src="',$thumbnail_image,'" 
+		data-image="',$images_dir.$file,'"
+		data-description="River and Bridge"
+		style="display:none">';
+		if($index % $images_per_row == 0) { echo ''; }
 	}
-	echo '<div class="clear"></div>';
+	echo '';
 }
 else {
 	echo '<p>There are no images in this gallery.</p>';

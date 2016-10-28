@@ -4,57 +4,7 @@ $folder_name = "images/architecture"; ?>
 
 <div class="container" id="wrapper">
 	<div id="gallery-page" style="display:none;">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<img alt="River and Bridge"
-		src="images/architecture-thumbs/_30A6742.jpg"
-		data-image="images/architecture/_30A6742.jpg"
-		data-description="River and Bridge"
-		style="display:none">
-		<!-- <?php include("gallery-script.php") ?> -->
+		<?php include("gallery-script.php") ?>
 	</div>
 </div>
 <script type="text/javascript">
