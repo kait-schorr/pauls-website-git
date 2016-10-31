@@ -24,7 +24,7 @@ $folder_name = "images/new-mexico-landscapes";
 			tile_enable_textpanel:true,
 			tile_textpanel_title_text_align: "center",
 			theme_navigation_type:"arrows",
-			lightbox_type: compact;
+			lightbox_type: compact,
 		});
 
 	});
