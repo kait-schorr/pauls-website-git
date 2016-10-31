@@ -31,6 +31,8 @@
     <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
     
     <script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+    <script src='unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js' type='text/javascript'></script>
+
 
 </head>
 <body>
