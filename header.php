@@ -16,8 +16,6 @@
         }
     </style>
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/smoothbox.css">
-
 
     <link rel="stylesheet" href="css/main.css">
     
@@ -25,6 +23,16 @@
     <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- Unite Gallery Stuff -->
+    <script type='text/javascript' src='unitegallery/js/jquery-11.0.min.js'></script>   
+    <script type='text/javascript' src='unitegallery/js/unitegallery.min.js'></script>  
+
+    <link rel='stylesheet' href='unitegallery/css/unite-gallery.css' type='text/css' />
+    
+    <script type='text/javascript' src='unitegallery/themes/tiles/ug-theme-tiles.js'></script>
+    <script src='unitegallery/themes/tilesgrid/ug-theme-tilesgrid.js' type='text/javascript'></script>
+
 
 </head>
 <body>
